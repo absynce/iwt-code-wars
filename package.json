@@ -1,0 +1,17 @@
+{
+  "name": "chat-example",
+  "version": "0.0.0",
+  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "main": "server.js",
+  "repository": "",
+  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "compound": "^1.1.15",
+    "express": "~3.2.4",
+    "jugglingdb": "^0.2.14",
+    "jugglingdb-mongodb": "0.0.4-4",
+    "jugglingdb-mysql": "0.0.8",
+    "socket.io": "~0.9.14"
+  }
+}
